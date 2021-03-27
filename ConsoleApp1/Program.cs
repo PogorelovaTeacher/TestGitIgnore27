@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("333");
             Console.WriteLine("Two string");
+            Console.WriteLine("Commit in branch2");
         }
     }
 }
